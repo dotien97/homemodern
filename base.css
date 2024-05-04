@@ -1,0 +1,25 @@
+:root {
+    --while-color: #fff;
+    --black-color: #000;
+}
+
+.grid {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+
+    
+}
+.grid__column-2-4 {
+    /* width: 25%; */
+    /* display: inline-block; */
+    /* display: flex; */
+    /* width: 20%; */
+    /* height: 100%; */
+    /* margin: 0; */
+    /* display: flex; */
+
+}
+.grid__row {
+    display: flex;
+}
